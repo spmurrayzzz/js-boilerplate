@@ -10,6 +10,8 @@ of this structure from how we've done things at work, so
 - Full Mocha test suite integration
 - Coverage reports (via blanket)
 - Optimized concat/build using r.js/almond (not currently uglified)
+- JSHint linting
+- Code style enforcement using jscs (rules inspired by [idiomatic.js](https://github.com/rwaldron/idiomatic.js/))
 
 ## Getting started
 
