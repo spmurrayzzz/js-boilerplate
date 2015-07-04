@@ -2,6 +2,10 @@
   "name": "js-boilerplate",
   "version": "1.0.0",
   "description": "A boilerplate for JS projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spmurrayzzz/js-boilerplate.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=dev grunt test"
