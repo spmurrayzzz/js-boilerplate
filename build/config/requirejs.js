@@ -6,6 +6,7 @@ module.exports = {
       include: [ 'src/js/index' ],
       name: 'node_modules/almond/almond.js',
       out: 'dist/js/app.js',
+      generateSourceMaps: true,
       wrap: {
         startFile: 'src/js/intro.js',
         endFile: 'src/js/outro.js',
