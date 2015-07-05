@@ -31,7 +31,8 @@ module.exports = {
     // ignored files
     ignores: [
       'src/js/intro.js',
-      'src/js/outro.js'
+      'src/js/outro.js',
+      'src/js/vendor/**/*.js'
     ]
   },
   src: {

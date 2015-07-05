@@ -3,7 +3,8 @@ module.exports = {
   options: {
     excludeFiles: [
       'src/js/intro.js',
-      'src/js/outro.js'
+      'src/js/outro.js',
+      'src/js/vendor/**/*.js'
     ],
     requireCurlyBraces: [
       'if',
